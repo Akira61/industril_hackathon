@@ -1,0 +1,15 @@
+
+/* 
+.sidebar{
+    position: fixed !important;
+    top: 0 ;
+    left: 0;
+    height: 100vh !important;
+    width: 250px !important;
+    background-color: black !important;
+} */
+
+.logo{
+    display: grid;
+    
+}
